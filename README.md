@@ -2,12 +2,6 @@
 
 **Here is PANLEI, A Software Engineer 👋**
 
-## Product
-
-- [Epoch: Guitar Tuner](https://epochpro.app/)
-
-![Epoch](https://github.com/Panl/Panl/blob/master/epoch_banner.png)
-
 ## Skills
 
 - iOS (Swift)
@@ -16,6 +10,13 @@
 - React & React Native
 - Python
 - Node.js
+
+## Product
+
+- [Epoch: Guitar Tuner](https://epochpro.app/)
+
+![Epoch](https://github.com/Panl/Panl/blob/master/epoch_banner.png)
+
 
 ## Hobby
 
