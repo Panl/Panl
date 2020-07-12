@@ -6,7 +6,7 @@
 
 - [Epoch: Guitar Tuner](https://epochpro.app/)
 
-![Epoch](epoch_banner.png)
+![Epoch](https://github.com/Panl/Panl/blob/master/epoch_banner.png)
 
 ## Skills
 
