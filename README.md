@@ -1,23 +1,23 @@
 # WHO AM I ?
 
-**Here is PANLEI, A Software Engineer 👋**
+>**Here is PANLEI, A Software Engineer 👋**
 
-## Skills
+**🧰 Skills**
 
-- iOS (Swift)
-- Android
-- Flutter
-- React & React Native
-- Python
-- Node.js
+- 🍎 iOS (Swift)
+- 🍭 Android
+- 🦋 Flutter
+- 🧊 React & React Native
+- 🐍 Python
+- 🥗 Node.js
 
-## Product
+**💻 Product**
 
-- [Epoch: Guitar Tuner](https://epochpro.app/)
+[Epoch: Guitar Tuner](https://epochpro.app/)
 
 ![Epoch](https://github.com/Panl/Panl/blob/master/epoch_banner.png)
 
 
-## Hobby
+**🎹 Hobby**
 
-- Guitar (Let's Folk & FingerStyle)
+- 🎸 Guitar (Let's Folk & FingerStyle)
