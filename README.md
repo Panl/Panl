@@ -13,7 +13,7 @@
 
 **💻 Product**
 
-[Epoch: Guitar Tuner](https://epochpro.app/)
+- 🎼 [Epoch: Guitar Tuner](https://epochpro.app/)
 
 **🎹 Hobby**
 
