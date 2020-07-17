@@ -15,9 +15,6 @@
 
 [Epoch: Guitar Tuner](https://epochpro.app/)
 
-![Epoch](https://github.com/Panl/Panl/blob/master/epoch_banner.png)
-
-
 **🎹 Hobby**
 
 - 🎸 Guitar (Let's Folk & FingerStyle)
