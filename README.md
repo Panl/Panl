@@ -1,20 +1,10 @@
-# WHO AM I ?
+### Hello, here is PAN LEI 👋 
 
->**Here is PANLEI, A Software Engineer 👋**
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=panl&show_icons=true&icon_color=38a0ff&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-**🧰 Skills**
-
-- 🍎 iOS (Swift)
-- 🍭 Android
-- 🦋 Flutter
+- 🍎 Focusing on iOS (Swift)
+- 💻 Building an iOS app: [Epoch: Guitar Tuner](https://epochpro.app/)
+- 🎸 Learning Guitar (Let's Folk & FingerStyle)
+- 🦋 Android & Flutter
 - 🧊 React & React Native
 - 🐍 Python
-- 🥗 Node.js
-
-**💻 Product**
-
-- 🎼 [Epoch: Guitar Tuner](https://epochpro.app/)
-
-**🎹 Hobby**
-
-- 🎸 Guitar (Let's Folk & FingerStyle)
