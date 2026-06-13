@@ -1,0 +1,19 @@
+# 内容: 📈 券商 规则集
+# 备注: 长桥/富途/老虎国际证券相关域名
+# 更新: 2026年06月13日
+# 数量: 12条
+# 长桥 Longbridge
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,wbrks.com
+DOMAIN-SUFFIX,longbridgeapp.com
+# 富途 Futu
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,futunn.com
+# 老虎 Tiger
+DOMAIN-SUFFIX,itiger.com
+DOMAIN-SUFFIX,itigergrowth.com
+DOMAIN-SUFFIX,itigergrowtha.com
+DOMAIN-SUFFIX,itigerup.com
