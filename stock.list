@@ -108,17 +108,8 @@ IP-CIDR,193.112.84.0/24,no-resolve
 IP-CIDR,193.112.234.0/24,no-resolve
 
 # 老虎 Tiger
-DOMAIN-SUFFIX,itiger.com
-DOMAIN-SUFFIX,itigergrowth.com
-DOMAIN-SUFFIX,itigergrowtha.com
-DOMAIN-SUFFIX,itigerup.com
-DOMAIN-SUFFIX,tigerbrokers.com
-DOMAIN-SUFFIX,tigerbrokers.net
-DOMAIN-SUFFIX,tigerbrokers.nz
-DOMAIN-SUFFIX,tigerfintech.com
-DOMAIN-SUFFIX,laohu8.com
-DOMAIN-SUFFIX,tigerbbs.cn
-DOMAIN-SUFFIX,tigerbbs.com
-DOMAIN-SUFFIX,xiaohu8.com
-DOMAIN-SUFFIX,zhijianfengyi.cn
-DOMAIN-SUFFIX,zhijianfengyi.com
+DOMAIN-KEYWORD,skytigris
+DOMAIN-KEYWORD,laohu
+DOMAIN-KEYWORD,tigrwd
+DOMAIN-KEYWORD,tradeup
+DOMAIN-KEYWORD,itigerup
